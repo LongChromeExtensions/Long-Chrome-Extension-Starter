@@ -1,0 +1,18 @@
+*.tmp
+*.log
+*.DS_Store
+
+logs/
+node_modules/
+dist/
+tmp/
+temp/
+
+# IDE
+.idea/
+.vscode/
+
+yarn.lock
+
+.env
+.conf
